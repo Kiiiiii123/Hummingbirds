@@ -85,10 +85,10 @@ public class Flower: MonoBehaviour
             // Disable the flower and nectar colliders.
             flowerCollider.gameObject.SetActive(false);
             nectarCollider.gameObject.SetActive(false);
+            
+            // 3.Change the flower color to indicate that it is empty.
+            flowerMaterial.SetColor("_BaseColor", emptyFlowerColor);
         }
-        
-        // 3.Change the flower color to indicate that it is empty.
-        flowerMaterial.SetColor("_BaseColor", emptyFlowerColor);
         
         // 4.Return the amount of nectar that was taken.
         return nectarTaken;
