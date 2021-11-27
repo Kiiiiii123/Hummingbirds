@@ -144,3 +144,4 @@ Received Import Request.
 Start importing Assets/Hummingbird/Prefabs/Hummingbird.prefab using Guid(ee5d7605796823e44b0821e269dced5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e33af027a9282ac13ff6e351da3b68') in 0.011104 seconds
   Import took 0.014815 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
