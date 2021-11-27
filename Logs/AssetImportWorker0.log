@@ -96,3 +96,52 @@ Received Import Request.
 Start importing Assets/config using Guid(1212638d18142e79ab3e7cfe37163ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb97d8eb15821bcf8861bf056f66c80') in 0.003671 seconds
   Import took 0.007162 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1172.768387 seconds.
+  path: Assets/Hummingbird/Scenes/Training.unity
+  artifactKey: Guid(f36411d6fac4ba04a965fa55cf1487e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scenes/Training.unity using Guid(f36411d6fac4ba04a965fa55cf1487e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c932d8dbaeb76f66355673a87a2f12') in 0.007413 seconds
+  Import took 0.010826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000708 seconds.
+  path: Assets/Hummingbird/Scenes/Training.unity
+  artifactKey: Guid(f36411d6fac4ba04a965fa55cf1487e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scenes/Training.unity using Guid(f36411d6fac4ba04a965fa55cf1487e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c932d8dbaeb76f66355673a87a2f12') in 0.000624 seconds
+  Import took 0.003381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.899390 seconds.
+  path: Assets/Hummingbird/Scenes/Training.unity
+  artifactKey: Guid(f36411d6fac4ba04a965fa55cf1487e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hummingbird/Scenes/Training.unity using Guid(f36411d6fac4ba04a965fa55cf1487e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e16703fd965812f53e26fe0367a8f45') in 0.000763 seconds
+  Import took 0.004636 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002187 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.120 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2658 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.2 MB.
+System memory in use after: 112.3 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 3130.
+Total: 4.536332 ms (FindLiveObjects: 0.234127 ms CreateObjectMapping: 0.135840 ms MarkObjects: 2.748154 ms  DeleteObjects: 1.416263 ms)
+
