@@ -1,2 +1,2 @@
 # Hummingbirds
-![Hummingbird](img/Hummingbird.webp)
+![Hummingbird](img/humming_bird.webp)
